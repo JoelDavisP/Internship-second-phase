@@ -1,0 +1,19 @@
+One single problem.
+All I did today, was a single problem, implementation of Hangman game.
+The problem was not at all a big one, but still I took some hours to complete it..
+At first, I made some basic level mistakes and that lead to big headache, at the end.
+I had to rebuild it completely, for getting a solution.
+And finally I got the desired output.
+The major thing I studied today, was in how many different ways I can make mistakes and also recover from that.
+Not a bad lesson, I think!!
+So today, I made my first game in python succesfully.
+Little bit excited, so I spend almost one hour for playing my first hand made game
+Important thing is, for the first time, I was solving my mistakes and recorrecting it until I got the last answer. Usually I quit the task and go to the next question.
+It gave me some sort of confidence.
+
+And that also brought an end to the week 3 session of ed.x course.
+
+Also I watched one video tutorial of Pramode sir and installed Go software for next week's workshop.
+
+And thats the emd of this day,
+I'll start next week tuts on tmrw.
