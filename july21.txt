@@ -1,0 +1,7 @@
+Completed Pramode sir's first week video tutorials.
+
+Practiced some basic shell programs
+
+Currently doing Ed.x course Problem set 4 question
+
+All subfunctions are implemented, now building main function. 
