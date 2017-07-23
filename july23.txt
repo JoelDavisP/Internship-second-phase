@@ -1,0 +1,3 @@
+Completed problem set questions of week 4
+
+Attended the quiz on python given after week4
