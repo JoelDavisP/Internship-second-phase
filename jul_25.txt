@@ -1,0 +1,5 @@
+Doing ed,x course mid term exercises part 2.
+
+Started some basic works in shell, like for loop, case statement etc.
+
+In the evening I had some health issues so that I couldnt complete working
