@@ -1,0 +1,6 @@
+Started week5 videos in ed.x course.
+Need some more time to understand the concepts of classes and objects and their methods more deeply.
+Studied the basic concepts of classes and objects in python.
+Completed Shell basic pdf reading and made some notes.
+Trying exercises given, but little bit slow on shell script writing.
+Need to understand more on shells 
