@@ -1,0 +1,15 @@
+Last day I went for an interview in SHREDS for the first and last time..
+
+It not only wasted my entire day, but also made me sick..
+
+Today I was not at all 100% healthy..
+
+However I managed to study 3 video tutorials provided by sir.
+
+Memory management in python which was a little bit complicated one..
+
+I understood the basic ideas, but not the entire things like what happened in case of cyclic referencing and similar things..
+
+I dont know how to really understand such things.
+
+Anyways the sessions were brilliant
