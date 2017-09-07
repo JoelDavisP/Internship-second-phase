@@ -1,0 +1,12 @@
+Day for doing some exercises and practice problems.
+
+In the first half section I tried out some exercises on generator objects and iterator in Python Practice book.
+
+
+While doing it, I got some confusions on python modules, so I started doing exercises in different python modules, especially OS module in python.
+
+Did some exercises in os module.
+
+In the second half, I tried to study a material provided by sir regarding MIT scheme. 
+
+Studied some basic stuffs, but not at all comfortable with functional programming style
