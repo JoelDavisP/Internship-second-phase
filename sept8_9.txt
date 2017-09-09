@@ -1,0 +1,12 @@
+Reading Scheme tutorials..
+
+Completed all basic ideas and had a fair idea about Scheme programs..
+
+From the evening, Started to read the Python compiler code for Lisp language..
+
+Read upto the two parts of compiler.
+
+Had a doubt in some program in python modules, and cleared it.
+
+
+On sept 9 I had to attend a marriage function, so nothing could done.
