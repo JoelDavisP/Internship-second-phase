@@ -1,0 +1,6 @@
+Due to some family functions I couldn't work more than 3 hours..
+
+Reading the Lisp compiler written in python..
+
+
+Understood the basic ideas and trying to do it in my own way..
