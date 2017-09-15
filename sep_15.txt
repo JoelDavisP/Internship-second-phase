@@ -1,0 +1,11 @@
+Watched two more video tutorials provided by sir.
+
+Now Studying generator object part and doing the exercises..
+
+Run the entire Lispy program with some basic scheme programs..
+
+Understood the overall working of lisp compiler, need to check it with more sophisticated scheme programs..
+
+Tomorrow there begins the first online lecture session.
+
+Made some preparations for the online session
