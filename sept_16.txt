@@ -1,0 +1,11 @@
+Today I was experimenting on generator expressions.
+
+In the morning attended a few minutes class.
+
+Then watched the generator expression videos once again and tried all the exercises mentioned in the session using generator objects.
+
+Added every programs tried today into git repo.
+
+Tried to understand Lispy more and understood most of the code.
+
+Tried with different examples provided by the webpage.. 
