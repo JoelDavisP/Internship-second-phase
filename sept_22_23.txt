@@ -1,0 +1,14 @@
+I spent These two days for mostly studying Javascript.
+
+Almost got an idea about how to write codes in Javascript.
+
+Then I tried some exercises given in that tutorials, due to lack of time I stopped from 4th chapter and started implementing the Scheme compiler in Javascript.
+
+
+I completed first two parts, i.e. Tokenization as well as Parsing in Javascript.
+
+I asked some helps from my colleagues and they taught me some specific things in the procedure. 
+
+I also completed two tutorials videos and reading the Pythonista material now.
+
+There was a one hour session in today morning and I attended the session..
