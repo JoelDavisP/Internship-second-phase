@@ -1,0 +1,19 @@
+These two days were totally spent for the project in Javascript.
+
+
+Completed the basic operations.
+
+Need to complete some other operations also, and to study the destructuring part more.
+
+It was little bit tough for me to identify where the errors were and what was the error.
+
+Some errors were my mistakes and some due to the lack of proper understanding of the language.
+
+Read some documents about the drawbacks of the language and some errors were only identified after reading those documents.
+
+My colleagues helped me a lot to clarify the mistakes; That part is helpful for me, because they also made some of those mistake and corrected it. So I could correct it easily.
+
+
+Need to complete the remaining part as early as possible and start the second part soon.
+
+It might be an easier task if I spend little more time to study the languageproperly, nevertheless I studied language more through this project.
