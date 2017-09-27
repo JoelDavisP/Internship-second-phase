@@ -1,0 +1,15 @@
+Completed the first part of project in javascript.
+
+Took some additional time when I tried to rebuild some functions after some modifications.
+
+Spend too much time than I expected to complete the basic things.
+
+A bit tired, so Changed the topic and watched the video of the last online class and tried out the exercise in that video.
+
+Later tried to code the second part, but got confused at some OO concepts in JS.
+
+Then tried to implement it in another way, without using OO behaviour and use only functional and imperative style.
+
+Tomorrow I have to go to Thrissur to apply for Degree certificate.
+
+And will try it after returning from there.
