@@ -1,0 +1,24 @@
+Experimenting with the second part of project a little time.
+
+Not getting a proper way to implement it.
+
+So I switched temporarily from Javascript to Python.
+
+Continued with the video tutorials especially regarding Multithreading concepts.
+
+
+After studying it, I found an interesting fact.
+
+In B.tech syllabus I was just blindly mug up things for university exams without understandinng how things actually works.
+
+
+I could remember all the terms mentioned in Oct_29th class, and now I could relate everything in a poper way.
+
+It's a crucial fact about 4 years B.tech life.
+
+I think more such sessions will be really worthy and usefull for me.
+
+Watched 3 videos on multithreading yesterday.
+
+
+Today, I have to do some works in home so, I couldnt do much.
