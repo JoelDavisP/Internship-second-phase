@@ -1,0 +1,22 @@
+Sorry for the delayed update..
+
+These days I was trying the second part of project and completing multithread video tutorials.
+
+I finished the multithread videos section yesterday and just started multitasking videos.
+
+It was really a great exposure to the multithreading part.
+
+I could understand those chapters well; more than I learned in B.Tech syllabus.
+
+I tried out almost all exercises in the videos and found to know how difficult those sections were.
+
+In the project section, I hadn't got the correct logic of the second part of project  till I read my colleague's program.
+
+After reading those sections carefully, I tried to implement it myself, still I got some errors, and tried to recorrect those errors.
+
+And finally I could get a proper code that implements a Lisp compiler in Javascript..
+
+I am trying a few more functions now and have to add proper comments in the code.
+
+Will try to complete this in a few days and also complete the remaining two videos in the tutorials section.
+
