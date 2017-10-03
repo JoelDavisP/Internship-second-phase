@@ -1,0 +1,9 @@
+Started exercises in python practice book.
+
+Completed 21 problems in chapter 2 in the book.
+
+Once again read all the problems mentioned in pythonista and trying to solve every problems in pythonic way.
+
+And also refreshed some previous video lectures in python tutorials
+
+Will continue tomorrow.
