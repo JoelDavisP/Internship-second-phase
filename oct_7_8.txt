@@ -1,0 +1,12 @@
+Trying out chapter 3 problems in these days.
+
+
+Completed watching all video tuts given by Pramode sir.
+
+Also completed the first project work.
+
+Once again refreshing two important modules, os module and re module.
+
+Spend some time by experimenting on Regular expression module and its different expressions.
+
+Little bit issues somewhere in re module and try to clarify it
