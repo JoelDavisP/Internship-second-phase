@@ -1,0 +1,15 @@
+Continuing python practice book exercises.
+
+Completed 5th chapter and reached half of the last chapter.
+
+Last chapter is about recursion and functional programming.
+
+Recursion seems to be a little bit challenging for me.
+
+Completed 5 problems, but it took so much time to get the correct logic behind every recursive programs.
+
+Its a time consuming task and try to complete it in this week itself.
+
+Tomorrow I have to go to my college for bringing my last two sem certificates.
+
+I will go there after attending the class, so I may not be able to work tomorrow.
