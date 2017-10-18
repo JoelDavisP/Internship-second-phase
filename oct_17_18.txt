@@ -1,0 +1,29 @@
+Trying the tasks given.
+
+Completed first two days task (unit testing and refactoring).
+
+It's a nice experience and knowledge, even though it took some time to grasp.
+
+Today started the next task, studying the modules in python.
+
+Tenth chapter was not at all tough since I used most of the modules and methods in the previous sessions.
+
+So, after finishing it I continued ed. x course week1.
+
+I completed all videos and one word qns, then moved on to exercises..
+
+First three were not too much hard, but later it became tough to understand the qn itself.
+
+I read qn many times, asked doubt but still not getting what it means.
+
+I have to say that the explanations were so poor, or may be tough.
+
+The wordings were not enough to understand what the requirements were.
+
+So, I switched to interview cake lectures.
+
+It explains everything in a nice and elegant way.
+
+I completed all three lectures, but the remaining parts were paid, so I had to stop it there. 
+
+Now continuing the ed.x course and will resume task3 tomorrow.
