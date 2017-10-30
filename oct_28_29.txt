@@ -1,0 +1,13 @@
+Studying Javascript concepts.
+
+Completed three more  chapters of that book.
+
+I had to repeatedly read some parts to get more clarity.
+
+Some parts like functions as values, are little confusing for me.
+
+
+Trying to understand all concepts clearly.
+
+
+Working out most of the exercises and trying to start the paint application as soon as possible, after completing all chapters.
