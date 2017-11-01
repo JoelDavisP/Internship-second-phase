@@ -1,0 +1,15 @@
+Learning and practising javascript web application programs.
+
+Installed sublime text editor and trying out example programs in it.
+
+Still some parts in web application is confusing for me, and I could not understand some sections in the code.
+
+I asked some support from my colleagues doing this assignment.
+
+Meanwhile I watched all videos in week 3 in the ed.x course "How to win programming competition" and completed associated simple problems.
+
+
+Programming assignment will be done after completing this project.
+
+
+Now working with the given Javascript task. 
