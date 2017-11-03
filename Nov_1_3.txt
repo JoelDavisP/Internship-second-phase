@@ -1,0 +1,17 @@
+Continuing Javascript tutorials.
+
+Initially I found a lot of troubles while experimenting on te exercises of Eloquent javascript.
+
+
+Some examples given were not working as I expected and I couldn't resolve the issues.
+
+
+Later I found 'w3schools' website for javascript tutorials.
+
+
+I felt it is much better than the above text and now practicing exercises given.
+
+Minor differences between both, but now getting more confident while trying these examples.
+
+
+Will resume Eloquent JS after finishing these exercises.
