@@ -1,0 +1,22 @@
+Yesterday I completed reading the necessary parts of Javascript in the site w3schools.com.
+
+And after reading this, I got an idea how to proceed further in the project.
+
+In the last couple of days I was repeatedly reading the eloquent Javascript but couldnt understand more.
+
+I tried to read some tutorials and even videos of this text book, but there were no use at all.
+
+But after completing this tutorials part in w3schools, when I read from the chapter of canvas in eloquent javascript, I could get a more clear idea.
+
+I have to say that, the book was not a beginner level, an intermediate level for me.
+
+Now I got a better idea than the previous one.
+
+
+From tomorrow itself I will start the main project, paint application and try to finish it as early as possible.
+
+
+Sorry for the bad delay, but I was trying in all these days, might not be upto the mark.
+
+
+And I will try more better than this from tomorrow. 
