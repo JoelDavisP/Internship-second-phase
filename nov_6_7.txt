@@ -1,0 +1,7 @@
+On Nov 6, I had to go to hospital due to some issues with my eyes.
+
+Today I resumed working in the paint application in JavaScript.
+
+Started to build a canvas and a few basic functionalitites in the canvas.
+
+Read the document in HTML 5 provided by sir.
