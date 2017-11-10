@@ -1,0 +1,7 @@
+I was trying to make a paint app by modifying the given code in eloquent javascript.
+
+Then I read mail from sir, which said to create a new application without refering the existing code.
+
+Then I cleared all my code and start to build a new code from start.
+
+Started basic steps and trying to add more functionalities.
