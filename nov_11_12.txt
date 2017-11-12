@@ -1,0 +1,11 @@
+Yesterday we had a program in our college, so We all were there.
+
+Now working on javascript project.
+
+Trying to solve, locating the mouse position issue.
+
+Refered some sites, but not getting the right answer.
+
+Some methods seems to be unclear.
+
+Refering more such programs. 
