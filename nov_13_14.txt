@@ -1,0 +1,6 @@
+Got the brush movement, clear screen and changing background colour of the paint application.
+
+
+Eraser option is almost ready, but need some more works, and size option also.
+
+Yesterday I had to attend an online interview, so I's participating in it in the evening.
