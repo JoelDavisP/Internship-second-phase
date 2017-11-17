@@ -1,0 +1,14 @@
+Almost finished all basic operations like sketch, erase, change size of line, change background colour, clear in the paint application.
+
+
+A minor error after erase option and trying to solve it.
+
+
+Then will move on to other shapes.
+
+Yesterday I had some hospital case in the evening, so I had to go there.
+
+
+I Also read the next level tutorial part of javascript given.
+
+I tried the treassure hunt game, but on level 5 I got no clues and answers, so I stopped it after level 5. 
