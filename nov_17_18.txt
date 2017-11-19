@@ -1,0 +1,11 @@
+I had a hospital case on yesterday, my grandmother was not well and hospitalised from thursday evening and I had to go there on yesterday.
+
+Today I restarted javascript project.  Completed basic functionalities and trying to implement shapes functionalities.
+
+There are some issues in the shapes, so I will do it later after refering some other projects.
+
+Meanwhile, I installed Django software after creating a new test environment and started learning Django in free time.
+
+Installation process is over, now from tomorrow I will start some mini projects in Django in free time.
+
+And I will start the web browser project from tomorrow. 
