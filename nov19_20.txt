@@ -1,0 +1,11 @@
+Started the web server project.
+
+Practiced some basic networking examples in python.
+
+Studying more about the sockets and fork system calls.
+
+Creating sockets seems to be simple but synchronization is the major problem in all kinds of networking exercises.
+
+Searched some web pages to get more idea about web servers and its working.
+
+Got the basic idea on how to implement the web server.
