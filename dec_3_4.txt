@@ -1,0 +1,14 @@
+After a few days gap due to some hardware problems in my system, back into action yesterday.
+
+Due to some internal errors, I had to re-install ubuntu and hence to intall some softwares and update system.
+
+Restarted the works.
+
+Completed the questions in advent of code of these days.
+
+Added the web server program (except images) to my repo.
+
+
+Still working to find out the issues with images, but not getting the correct solution.
+
+Trying different ways of solutions for the images.
