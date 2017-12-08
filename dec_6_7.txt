@@ -1,0 +1,15 @@
+On Dec 7 th I had an off- campus walk-in interview for U.S.T. global in S.N.G.E.C. Kolanchery and I was preparing for the interview on Dec 6th.
+
+First round was an on-line assessment test that contain verbal, programming and aptitude questions.
+
+This round was simple and I could easily clear this round.
+
+Second round was G.D. and I was selected in that also.
+
+Final round interview will be held on 20 December in their own office at Trivandrum and I hope I could perform well in that.
+
+Reached late after all the process.
+
+I read the mail regarding the issue in the image sending of web server.
+
+I also had the same issue, and I will clear it soon and will start Django.
