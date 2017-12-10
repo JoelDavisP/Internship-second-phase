@@ -1,0 +1,11 @@
+Completed web server project and added it to github repo.
+
+Started the next task of learning Django.
+
+Installed the required softwares and completed the first few chapters in the text book.
+
+Implemented first web app (basic web app) as mentioned in the chapter.
+
+Yesterday I had a skype interview and some journeys.
+
+Interview was good and the results are yet to be announced.
