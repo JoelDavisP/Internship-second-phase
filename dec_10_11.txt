@@ -1,0 +1,12 @@
+Almost finished the given Django study materials in this two days.
+
+Last chapter will finish soon.
+
+
+The book was amazing and really useful for a beginner in django.
+
+I got the work flow and different processes in django web development.
+
+Need more practice to remember whatever done so far.
+
+Also created an account in pythonanywhere.com and added my code into it.
