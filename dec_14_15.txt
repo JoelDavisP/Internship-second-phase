@@ -1,0 +1,9 @@
+Completed first 15 video tutorials of django.
+
+Working out videos in vim seems to be a little difficult for me; Finding locations of different files in the project make some confusions.
+
+From today, I started preparing half of the time for the final interview in U.S.T. global, until next week.
+
+So I could work Django project in half of the time.
+
+Blog post created in Django project is added to Git.
